@@ -15,8 +15,7 @@ import { connectDB } from './config/db.js';
 
 const app = express();
 
-const allowedOrigins = [
- 'https://487d6c108cdb.ngrok-free.app',    // your CURRENT React frontend ngrok URL
+const allowedOrigins = [    // your CURRENT React frontend ngrok URL
   'http://localhost:3000'                   // if you want to allow local dev as well
   // Add any others you need
 ];
