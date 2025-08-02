@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Recallit/static/css/main.4b1894f7.css",
+    "main.js": "/Recallit/static/js/main.2d79c364.js",
+    "static/media/Product Sans Regular.ttf": "/Recallit/static/media/Product Sans Regular.d165384076551a756b3c.ttf",
+    "index.html": "/Recallit/index.html",
+    "main.4b1894f7.css.map": "/Recallit/static/css/main.4b1894f7.css.map",
+    "main.2d79c364.js.map": "/Recallit/static/js/main.2d79c364.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1894f7.css",
+    "static/js/main.2d79c364.js"
+  ]
+}
