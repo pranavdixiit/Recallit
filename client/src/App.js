@@ -7,7 +7,7 @@ export default function App() {
 
   return (
     
-    <BrowserRouter basename="/Recallit">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Dashboard />
 } />
