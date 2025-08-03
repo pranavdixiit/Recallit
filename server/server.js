@@ -15,9 +15,9 @@ import { connectDB } from './config/db.js';
 
 const app = express();
 
-const allowedOrigins = ['https://pranavdixiit.github.io/Recallit','https://picked-longhorn-valued.ngrok-free.app'   // your CURRENT React frontend ngrok URL
-  'http://localhost:3000'                   // if you want to allow local dev as well
-  // Add any others you need
+const allowedOrigins = ['https://pranavdixiit.github.io',
+  'https://picked-longhorn-valued.ngrok-free.app',
+  'http://localhost:3000'
 ];
 
 const corsOptions = {
