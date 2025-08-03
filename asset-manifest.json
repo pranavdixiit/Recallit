@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Recallit/static/css/main.4b1894f7.css",
-    "main.js": "/Recallit/static/js/main.a86021b4.js",
-    "static/media/Product Sans Regular.ttf": "/Recallit/static/media/Product Sans Regular.d165384076551a756b3c.ttf",
-    "index.html": "/Recallit/index.html",
-    "main.4b1894f7.css.map": "/Recallit/static/css/main.4b1894f7.css.map",
-    "main.a86021b4.js.map": "/Recallit/static/js/main.a86021b4.js.map"
+    "main.css": "./static/css/main.35972ac0.css",
+    "main.js": "./static/js/main.1ab77e66.js",
+    "static/media/Product Sans Regular.ttf": "./static/media/Product Sans Regular.d165384076551a756b3c.ttf",
+    "index.html": "./index.html",
+    "main.35972ac0.css.map": "./static/css/main.35972ac0.css.map",
+    "main.1ab77e66.js.map": "./static/js/main.1ab77e66.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b1894f7.css",
-    "static/js/main.a86021b4.js"
+    "static/css/main.35972ac0.css",
+    "static/js/main.1ab77e66.js"
   ]
 }
