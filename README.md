@@ -71,14 +71,20 @@ Backend API is deployed at [https://recallit.onrender.com](https://recallit.onre
     npm install
     ```
 
-3. Create a `.env` file in the `server` directory with the following contents:
+3. Create a `.env` file in the `server` & `client` directory with the following contents:
+   For `client`
+   ```
+    REACT_APP_API_URL=your_api_url
+    REACT_APP_MODE=development
     ```
+   For `server`
+   ```
     PORT=5000
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET=your_jwt_secret
     ```
 
-4. Start the backend server:
+5. Start the backend server:
     ```
     npm start
     ```
@@ -118,6 +124,12 @@ To run locally:
 ---
 
 ## Environment Variables
+
+
+| Variable   | Description                     | Example                                       |
+|------------|---------------------------------|-----------------------------------------------|
+| REACT_APP_API_URL       | Your Backend API URL | `your_api_url`                                        |
+| REACT_APP_MODE | Optional       | `development` |
 
 | Variable   | Description                     | Example                                       |
 |------------|---------------------------------|-----------------------------------------------|
