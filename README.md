@@ -108,7 +108,7 @@ To run locally:
     npm start
     ```
 
-4. Create a `.env` file in the `server` directory with the following contents:
+4. Create a `.env` file in the `client` directory with the following contents:
 
    For `client`
    ```
