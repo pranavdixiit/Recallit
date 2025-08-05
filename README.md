@@ -71,13 +71,8 @@ Backend API is deployed at [https://recallit.onrender.com](https://recallit.onre
     npm install
     ```
 
-3. Create a `.env` file in the `server` & `client` directory with the following contents:
-
-   For `client`
-   ```
-    REACT_APP_API_URL=your_api_url
-    REACT_APP_MODE=development
-    ```
+3. Create a `.env` file in the `server` directory with the following contents:
+   
    For `server`
    ```
     PORT=5000
@@ -111,6 +106,14 @@ To run locally:
 3. Start the frontend:
     ```
     npm start
+    ```
+
+4. Create a `.env` file in the `server` directory with the following contents:
+
+   For `client`
+   ```
+    REACT_APP_API_URL=your_api_url
+    REACT_APP_MODE=development
     ```
 
 ---
