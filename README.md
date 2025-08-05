@@ -122,7 +122,7 @@ To run locally:
 | Variable   | Description                     | Example                                       |
 |------------|---------------------------------|-----------------------------------------------|
 | PORT       | Port number your server runs on | `5000`                                        |
-| MONGO_URI  | MongoDB connection string       | `mongodb+srv://user:password@cluster.mongodb.net/db?retryWrites=true&w=majority` |
+| MONGO_URI  | MongoDB Atlas connection string       | `your_mongodb_connection_string` |
 | JWT_SECRET | Secret key for JWT signing      | `your-very-secure-secret`                     |
 
 ---
