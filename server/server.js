@@ -15,7 +15,7 @@ import { connectDB } from './config/db.js';
 
 const app = express();
 
-const allowedOrigins = ['https://pranavdixiit.github.io',
+const allowedOrigins = ['https://pranavdixiit.github.io','https://alishagandhii.github.io',
   'https://picked-longhorn-valued.ngrok-free.app',
   'http://localhost:3000'
 ];
